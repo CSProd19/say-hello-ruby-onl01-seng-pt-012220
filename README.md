@@ -1,4 +1,4 @@
-l  # Say Hello
+  # Say Hello
 
 ## Objectives
 
